@@ -1,0 +1,91 @@
+<RCC>
+    <qresource prefix="/new/prefix1_zombies">
+        <file>image/zombie/BucketheadZombie/BucketheadZombie.gif</file>
+        <file>image/zombie/BucketheadZombie/BucketheadZombieAttack.gif</file>
+        <file>image/zombie/ConeheadZombie/ConeheadZombie.gif</file>
+        <file>image/zombie/ConeheadZombie/ConeheadZombieAttack.gif</file>
+        <file>image/zombie/FlagZombie/FlagZombie.gif</file>
+        <file>image/zombie/FlagZombie/FlagZombieAttack.gif</file>
+        <file>image/zombie/FlagZombie/FlagZombieLostHead.gif</file>
+        <file>image/zombie/FlagZombie/FlagZombieLostHeadAttack.gif</file>
+        <file>image/zombie/Zombie/Zombie.gif</file>
+        <file>image/zombie/Zombie/Zombie2.gif</file>
+        <file>image/zombie/Zombie/Zombie3.gif</file>
+        <file>image/zombie/Zombie/ZombieAttack.gif</file>
+        <file>image/zombie/Zombie/ZombieHead.gif</file>
+        <file>image/zombie/Zombie/ZombieLostHead.gif</file>
+        <file>image/zombie/Zombie/ZombieLostHeadAttack.gif</file>
+        <file>image/plant/Peashooter/PB00.gif</file>
+        <file>image/zombie/Zombie/BoomDie.gif</file>
+        <file>image/zombie/Zombie/ZombieDie.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix1_background">
+        <file>image/b_g/ChooserBackground1.png</file>
+        <file>image/b_g/MainMenu.png</file>
+        <file>image/b_g/map1.jpg</file>
+        <file>image/b_g/Sunbar.png</file>
+        <file>image/b_g/boom.png</file>
+        <file>image/b_g/FinalWave.gif</file>
+        <file>image/b_g/FlagMeterEmpty.png</file>
+        <file>image/b_g/FlagMeterFull.png</file>
+        <file>image/b_g/FlagMeterParts1.png</file>
+        <file>image/b_g/FlagMeterParts2.png</file>
+        <file>image/b_g/LargeWave.gif</file>
+        <file>image/b_g/FlagMeterLevelProgress.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1_buttons">
+        <file>image/buttons/Adventure_0.png</file>
+        <file>image/end/GameLose.png</file>
+        <file>image/end/GameVictory.png</file>
+        <file>image/end/StartButton.png</file>
+        <file>image/buttons/menu.png</file>
+        <file>image/buttons/pause.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1_car">
+        <file>image/car/car1.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1_plants">
+        <file>image/plant/CherryBomb/CherryBomb.gif</file>
+        <file>image/plant/Peashooter/Peashooter.gif</file>
+        <file>image/plant/PotatoMine/ExplosionSpudow.gif</file>
+        <file>image/plant/PotatoMine/PotatoMine.gif</file>
+        <file>image/plant/PotatoMine/PotatoMine_mashed.gif</file>
+        <file>image/plant/PotatoMine/PotatoMineNotReady.gif</file>
+        <file>image/plant/SnowPea/SnowPea.gif</file>
+        <file>image/plant/SunFlower/SunFlower.gif</file>
+        <file>image/plant/WallNut/WallNut.gif</file>
+        <file>image/plant/WallNut/Wallnut_cracked1.gif</file>
+        <file>image/plant/WallNut/Wallnut_cracked2.gif</file>
+        <file>image/plant/CherryBomb/Boom12.gif</file>
+        <file>image/plant/Peashooter/PB001.png</file>
+        <file>image/plant/SnowPea/PB-10.png</file>
+        <file>image/plant/SunFlower/Sun.gif</file>
+        <file>image/plant/CherryBomb/Boom.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix1_plant_cards">
+        <file>image/plant_card/card_cherrybomb/card_cherrybomb.png</file>
+        <file>image/plant_card/card_cherrybomb/card_cherrybomb1.jpg</file>
+        <file>image/plant_card/card_cherrybomb/card_cherrybomb2.jpg</file>
+        <file>image/plant_card/card_peashooter/card_peashooter.png</file>
+        <file>image/plant_card/card_peashooter/card_peashooter1.jpg</file>
+        <file>image/plant_card/card_peashooter/card_peashooter2.jpg</file>
+        <file>image/plant_card/card_potatomine/card_potatomine.png</file>
+        <file>image/plant_card/card_potatomine/card_potatomine1.jpg</file>
+        <file>image/plant_card/card_potatomine/card_potatomine2.jpg</file>
+        <file>image/plant_card/card_snowpea/card_snowpea.png</file>
+        <file>image/plant_card/card_snowpea/card_snowpea1.jpg</file>
+        <file>image/plant_card/card_snowpea/card_snowpea2.jpg</file>
+        <file>image/plant_card/card_sunflower/card_sunflower.png</file>
+        <file>image/plant_card/card_sunflower/card_sunflower1.jpg</file>
+        <file>image/plant_card/card_sunflower/card_sunflower2.jpg</file>
+        <file>image/plant_card/card_wallnut/card_wallnut.png</file>
+        <file>image/plant_card/card_wallnut/card_wallnut1.jpg</file>
+        <file>image/plant_card/card_wallnut/card_wallnut2.jpg</file>
+        <file>image/plant_card/card_cherrybomb/cherrybomb0.gif</file>
+        <file>image/plant_card/card_peashooter/peashoot0.gif</file>
+        <file>image/plant_card/card_potatomine/potatomine0.gif</file>
+        <file>image/plant_card/card_snowpea/snowpea0.gif</file>
+        <file>image/plant_card/card_sunflower/sunflower0.gif</file>
+        <file>image/plant_card/card_wallnut/wallnut0.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>music/b_g/welcome.mp3</file>
+        <file>music/button/buttonclick.mp3</file>
+        <file>music/button/pause.mp3</file>
+        <file>music/war/Watery Graves.mp3</file>
+        <file>music/plant/plant1.mp3</file>
+        <file>music/plant/wakeup.mp3</file>
+        <file>music/plant/explosion.mp3</file>
+        <file>music/war/losemusic.mp3</file>
+        <file>music/war/winmusic.mp3</file>
+        <file>music/war/finalwave.mp3</file>
+        <file>music/war/hugewave.mp3</file>
+        <file>music/car/lawnmower.mp3</file>
+        <file>music/plant/chime.mp3</file>
+        <file>music/plant/throw.mp3</file>
+        <file>music/war/snow_pea_sparkles.mp3</file>
+        <file>music/war/splat.mp3</file>
+        <file>music/zombie/chompsoft.mp3</file>
+        <file>music/zombie/zombie_falling.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
